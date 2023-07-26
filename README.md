@@ -4,7 +4,7 @@
 ## Контрольная работа
 
 ### Задания
-1. Создать **репозиторий** на GitHub;
+1. Создать [**репозиторий**](https://github.com/ivanshh86/ControlTest_1.git) на GitHub;
 
 2. Нарисовать ***блок-схему** алгоритма* решения задачи (будет загружена сюда в виде файла - изображения, созданного в программе [Drawio](https://www.drawio.com/), данную программу можно загрузить [Desktop](https://github.com/jgraph/drawio-desktop/releases/tag/v21.6.5) версию для любой платформы с сайта [GitHub](https://github.com/));
 
